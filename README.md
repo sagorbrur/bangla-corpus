@@ -10,6 +10,10 @@ A curated collection of different Bangla nlp corpus
 ## Bangla POS
 
 ## Bangla Question Answering
+- [TiDy QA](https://ai.google.com/research/tydiqa)
 
 ## Bangla Text Classification
+- [Bangla Hate Speech Dataset by Rezaul Karim](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset)
+- [Fake News](https://github.com/Rowan1697/FakeNews)
 
+## Bangla Code-Mixed Dataset
