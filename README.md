@@ -28,3 +28,10 @@ A curated list of different Bangla nlp corpus
 
 ## Bangla Code-Mixed Dataset
 - [Bangla Code Mixing](https://amitavadas.com/Code-Mixing.html)
+
+## Bangla RAW Datasets
+- [OSCAR](https://oscar-corpus.com/)
+- [Wiki Dump](https://dumps.wikimedia.org/bnwiki/latest/)
+- [Indic Corpus](https://indicnlp.ai4bharat.org/corpora/)
+- [Common Crawl](http://data.statmt.org/ngrams/raw/)
+- 
