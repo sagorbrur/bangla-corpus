@@ -13,7 +13,7 @@ A curated list of different Bangla nlp corpus
 - [Banner](https://github.com/imranulashrafi/banner)
 
 ## Bangla POS
-- [bangla pos tagger](https://github.com/abhishekgupta92/bangla_pos_tagger)
+- [Bangla POS Tagger](https://github.com/abhishekgupta92/bangla_pos_tagger)
 - 
 
 ## Bangla Question Answering
@@ -27,4 +27,4 @@ A curated list of different Bangla nlp corpus
 - 
 
 ## Bangla Code-Mixed Dataset
-- [bangla code mixing](https://amitavadas.com/Code-Mixing.html)
+- [Bangla Code Mixing](https://amitavadas.com/Code-Mixing.html)
