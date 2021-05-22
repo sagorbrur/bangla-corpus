@@ -20,11 +20,12 @@ A curated list of different Bangla nlp corpus
 
 ## Bangla Text Classification
 - [Bangla Hate Speech Dataset by Rezaul Karim](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset)
+- [Sentiment Analysis by Rezaul Karim](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP/tree/master/SentimentAnalysis_Multichannel_CNN_LSTM) (7.5k)
 - [Fake News](https://github.com/Rowan1697/FakeNews)
 - [Bangla Emotion Classification](https://github.com/omar-sharif03/NAACL-SRW-2021)
 - [Bangla News Classificaiton](https://github.com/soham96/Bengali_news_classifier)
 - [Socian Sentiment Datasets](https://github.com/socian-ai/socian-bangla-sentiment-dataset-labeled) (4k)
-- [Sentiment Analysis](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP/tree/master/SentimentAnalysis_Multichannel_CNN_LSTM) (7.5k)
+
 
 ## Bangla Code-Mixed Dataset
 - [Bangla Code Mixing](https://amitavadas.com/Code-Mixing.html)
