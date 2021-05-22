@@ -1,5 +1,5 @@
 # Bangla Corpus
-A curated list of different Bangla nlp corpus
+A curated list of different Bangla NLP corpus
 
 ## Bangla Machine Translation
 * [Bangla NMT Corpus](https://github.com/csebuetnlp/banglanmt)(size 2.75M)
