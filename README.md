@@ -35,3 +35,4 @@ A curated list of different Bangla nlp corpus
 - [Wiki Dump](https://dumps.wikimedia.org/bnwiki/latest/)
 - [Indic Corpus](https://indicnlp.ai4bharat.org/corpora/)
 - [Common Crawl](http://data.statmt.org/ngrams/raw/)
+- [cc-100](http://data.statmt.org/cc-100/)
