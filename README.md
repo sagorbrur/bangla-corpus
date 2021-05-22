@@ -30,6 +30,9 @@ A curated list of different Bangla NLP corpus
 ## Bangla Code-Mixed Dataset
 - [Bangla Code Mixing](https://amitavadas.com/Code-Mixing.html)
 
+## Benchmark Datasets
+- [XTREME](https://github.com/google-research/xtreme)
+
 ## Bangla RAW Datasets
 - [OSCAR](https://oscar-corpus.com/)
 - [Wiki Dump](https://dumps.wikimedia.org/bnwiki/latest/)
