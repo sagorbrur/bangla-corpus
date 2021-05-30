@@ -11,6 +11,7 @@ A curated list of different Bangla NLP corpus
 
 ## Bangla NER
 - [Banner](https://github.com/imranulashrafi/banner)
+- [Wikiann](https://metatext.io/datasets/wikiann)
 
 ## Bangla POS
 - [Bangla POS Tagger](https://github.com/abhishekgupta92/bangla_pos_tagger)
