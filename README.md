@@ -40,3 +40,8 @@ A curated list of different Bangla NLP corpus
 - [Indic Corpus](https://indicnlp.ai4bharat.org/corpora/)
 - [Common Crawl](http://data.statmt.org/ngrams/raw/)
 - [cc-100](http://data.statmt.org/cc-100/)
+
+## Bangla Embeddings
+- [fasttext](https://fasttext.cc/docs/en/crawl-vectors.html)
+- [word2vec](https://drive.google.com/file/d/1cQ8AoSdiX5ATYOzcTjCqpLCV1efB9QzT/view?usp=sharing)
+- [BPEmb[(https://bpemb.h-its.org/)
