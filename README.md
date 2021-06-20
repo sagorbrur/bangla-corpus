@@ -8,6 +8,7 @@ A curated list of different Bangla NLP corpus
 ## Bangla Transliteration
 - [Dakshina Datasets](https://github.com/google-research-datasets/dakshina)
 - [Bangla NLP Transliteration Datasets](https://github.com/arijitx/BanglaNLP)
+- [IndicTrans](https://github.com/AI4Bharat/indicTrans)
 
 ## Bangla NER
 - [Banner](https://github.com/imranulashrafi/banner)
