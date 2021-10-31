@@ -4,6 +4,9 @@ A curated list of different Bangla NLP corpus
 ## Bangla Machine Translation
 * [Bangla NMT Corpus](https://github.com/csebuetnlp/banglanmt)(size 2.75M)
 * [Bengali-English Bilingual Corpus](http://www.manythings.org/anki/)(size 4332)
+* [samanantar](https://indicnlp.ai4bharat.org/samanantar/)
+* [opus corpus](https://opus.nlpl.eu/)
+* [ALT](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
 
 ## Bangla Transliteration
 - [Dakshina Datasets](https://github.com/google-research-datasets/dakshina)
