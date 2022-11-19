@@ -38,6 +38,7 @@ A curated list of different Bangla NLP corpus
 
 ## Bangla Parapharase
 - [Bangla Paraphrase by csebuetnlp](https://huggingface.co/datasets/csebuetnlp/BanglaParaphrase)
+- [indic paraphrase](https://huggingface.co/datasets/ai4bharat/IndicParaphrase)
 
 ## Bangla Code-Mixed Dataset
 - [Bangla Code Mixing by Amitavadas](https://amitavadas.com/Code-Mixing.html)
