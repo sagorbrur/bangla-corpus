@@ -52,6 +52,8 @@ A curated list of different Bangla NLP corpus
 - [Indic Corpus](https://indicnlp.ai4bharat.org/corpora/)
 - [Common Crawl](http://data.statmt.org/ngrams/raw/)
 - [cc-100](http://data.statmt.org/cc-100/)
+- [Sangraha](https://huggingface.co/datasets/ai4bharat/sangraha)
+- [Culturax](https://huggingface.co/datasets/uonlp/CulturaX)
 
 ## Bangla Embeddings
 - [fasttext](https://fasttext.cc/docs/en/crawl-vectors.html)
